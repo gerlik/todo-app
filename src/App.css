@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: #75ba6c;
+    padding: 1rem;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #639c5c;
+    color: white;
+}
+
+.add-todo-input {
+    padding: 1rem;
+    border-radius: 0;
+}
