@@ -1,7 +1,8 @@
 # ToDo 
 
 This is a ToDo list web application made with React.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![How it looks for now](demo.PNG)
 
 ## Available Scripts
 
