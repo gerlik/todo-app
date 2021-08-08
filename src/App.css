@@ -80,6 +80,7 @@ form {
     padding: 1rem;
     border-radius: 0;
     border: 1px solid #555555;
+    outline: none;
 }
 
 /* LIST */

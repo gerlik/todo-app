@@ -1,11 +1,11 @@
 import React from "react";
 import ToDoItem from "./ToDoItem";
 
-function ToDoList({todos, setTodo}) {
+function ToDoList({todos, setTodo, filteredTodos}) {
     return (
         <div className="todo-list">
             <ul className="todo-list-item">
-                {todos.map(todo => (   // Map through all tasks to display them
+                {filteredTodos.map((todo) => (   // Map through all tasks to display them
                     <ToDoItem
                         key={todo.id}
                         todo={todo}
