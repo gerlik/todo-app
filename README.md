@@ -1,6 +1,7 @@
-# ToDo 
+# TODO
 
-This is a ToDo list web application made with React.
+This is a To-Do list web application made with React.js framework.
+You can try it out [here](https://gerlik.github.io/todo-app/). Or see the image below.
 
 ![How it looks for now](demo.PNG)
 
